@@ -24,8 +24,7 @@
 ## 🌟 Featured Projects
 
 - [Habit Tracker](https://github.com/Jockey12/habit-tracker): A full-stack habit tracking app (Next.js + Go)
-- [go-renderer](https://github.com/Jockey12/go-renderer): Go-powered rendering engine
-- [dotconfigfiles](https://github.com/Jockey12/dotconfigfiles): My personal dotfiles and custom setups
+- [go-renderer](https://github.com/Jockey12/go-renderer): Go-powered rendering engine (WIP)
 - [gournal](https://github.com/Jockey12/gournal): Journaling tool in Go
 
 ---
