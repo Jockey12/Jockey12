@@ -1,23 +1,22 @@
-# Hi there 👋, I'm Jockey12
+# Hi there 👋, I'm Jockey
 
 🎓 **Computer Science Student**  
-💻 **Passionate about Go, C++, and building full-stack applications**
+💻 **Interested about Go, C++, Python, React, and building full-stack applications**
 
 ---
 
 ## 🚀 About Me
 
-- CS student with a love for building and tinkering with code.
-- Enjoy working with Go and C++, and always eager to learn new technologies.
-- Interested in full-stack development, especially with Next.js and Go on the backend.
+- Enjoy working with Go, C++, and Python, and always eager to learn new technologies.
+- Interested in back-end development, but mainly full-stack.
 
 ---
 
 ## 🛠️ Top Skills
 
-- **Languages:** Go, C++
+- **Languages:** Go, C++, Python, HTML, CSS, gdscript
 - **Frameworks:** Next.js
-- **Other:** Git, Linux, Dotfiles customization
+- **Other:** Git, Linux, Dotfiles customization, Automating System Tasks
 
 ---
 
@@ -35,13 +34,5 @@
 - Always tinkering with new project ideas and open to collaboration!
 
 ---
-
-<!-- Optionally add social links here -->
-
-<!--
-## 📫 How to reach me
-
-[LinkedIn](#) • [Twitter](#)
--->
 
 Thanks for visiting my profile!
