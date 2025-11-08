@@ -3,15 +3,6 @@
 🎓 **Computer Science Student**  
 💻 **Interested about Go, C++, Python, React, and building full-stack applications**
 
----
-
-## 🚀 About Me
-
-- Enjoy working with Go, C++, and Python, and always eager to learn new technologies.
-- Interested in back-end development, but mainly full-stack.
-
----
-
 ## 🛠️ Top Skills
 
 - **Languages:** Go, C++, Python, HTML, CSS, gdscript
@@ -28,13 +19,6 @@
 - [Simple Calculator](https://github.com/Jockey12/calculator-cpp): Simple Calculator in C++
 - [Simple Password generator](https://github.com/Jockey12/Password-Generator): Password Generator in C++ (Class project).
 - [Wav audio player (C++)](https://github.com/Jockey12/wav-player): Wav audio player using SFML Library in C++.
-
----
-
-## 📂 Other Cool Stuff
-
-- I like automating my workflow and customizing my Linux environment.
-- Always tinkering with new project ideas and open to collaboration!
 
 ---
 
