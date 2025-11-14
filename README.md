@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Jockey
 
 🎓 **Computer Science Student**  
-💻 **Interested about Go, C++, Python, React, and building full-stack applications**
+💻 **Interested about Go, C++, Python, Java, and building full-stack applications**
 
-## 🛠️ Top Skills
+## 🛠️ Skills
 
-- **Languages:** Go, C++, Python, HTML, CSS, gdscript
+- **Languages:** Go, C++, Python, HTML, CSS, GDscript
 - **Frameworks:** Next.js
-- **Other:** Git, Linux, Dotfiles customization, Automating System Tasks
+- **Other:** Git, Linux, Docker, Automating System Tasks, WSL2
 
 ---
 
@@ -19,7 +19,5 @@
 - [Simple Calculator](https://github.com/Jockey12/calculator-cpp): Simple Calculator in C++
 - [Simple Password generator](https://github.com/Jockey12/Password-Generator): Password Generator in C++ (Class project).
 - [Wav audio player (C++)](https://github.com/Jockey12/wav-player): Wav audio player using SFML Library in C++.
-
+- [Watering System](https://github.com/Jockey12/automated-watering-system-esp32): Automated Watering System with ESP32-S3
 ---
-
-Thanks for visiting my profile!
