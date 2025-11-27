@@ -10,6 +10,7 @@
 - **Other:** Git, Linux, Docker, Automating System Tasks, WSL2
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jockey12)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Featured Projects
 
