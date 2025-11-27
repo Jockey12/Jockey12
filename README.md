@@ -1,7 +1,6 @@
-# Hi there 👋, I'm Jockey
+# Jockey
 
 🎓 **Computer Science Student**  
-💻 **Interested about Go, C++, Python, Java, and building full-stack applications**
 
 ## 🛠️ Skills
 
