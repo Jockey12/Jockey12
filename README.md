@@ -9,7 +9,6 @@
 - **Other:** Git, Linux, Docker, WSL2, AI/LLMs, IoT, Microcontrollers
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jockey12)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Featured Projects
 
