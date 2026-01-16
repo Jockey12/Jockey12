@@ -1,3 +1,1 @@
-# Jockey
-
- **Computer Science Student**  
+neovim and thinkpad enjoyer
